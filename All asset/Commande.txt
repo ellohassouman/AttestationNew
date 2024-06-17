@@ -1,5 +1,5 @@
 #Generate model
-ng g class InsurancePolicy --type=model
+ng g class hero --type=model
 
 #Wget
-wget -mk "https://transvelo.github.io/mytravel-html/html/home/index.html"
+wget -mk "https://clever.webpixels.io/pages/projects/overview.html"
